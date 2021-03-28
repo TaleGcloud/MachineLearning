@@ -1,1 +1,33 @@
+bias（偏差）
 
+weight（权重）
+
+y=b+w1·x	model
+
+y=b+w1·x+w2·x^2	model
+
+······
+
+Training Data（训练数据）
+
+越复杂的model在training有更好结果
+
+Testing Data（测试数据）
+
+但会在Testing出现
+
+overfitting（过拟合）
+
+Gradient Descent（梯度下降法）
+
+
+
+
+Regularization（正则化）
+
+
+
+
+
+
+随x变化，w影响y值，通过加w项使得Loss函数更小更平滑
