@@ -1,3 +1,3 @@
 # MachineLearning
 MyStudy
-MachineLearning for Python
+MachineLearning by Python
